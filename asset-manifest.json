@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ideas-board/static/css/main.a6a86f64.css",
-    "main.js": "/ideas-board/static/js/main.5aed2872.js",
-    "static/js/787.84887c96.chunk.js": "/ideas-board/static/js/787.84887c96.chunk.js",
-    "static/media/HomePage_image.jpg": "/ideas-board/static/media/HomePage_image.81081c1bee2795988a7b.jpg",
-    "static/media/trash-can-solid.svg": "/ideas-board/static/media/trash-can-solid.80ad713adbe349bae510ea54dbe442b3.svg",
-    "index.html": "/ideas-board/index.html",
-    "main.a6a86f64.css.map": "/ideas-board/static/css/main.a6a86f64.css.map",
-    "main.5aed2872.js.map": "/ideas-board/static/js/main.5aed2872.js.map",
-    "787.84887c96.chunk.js.map": "/ideas-board/static/js/787.84887c96.chunk.js.map"
+    "main.css": "/static/css/main.a6a86f64.css",
+    "main.js": "/static/js/main.461fe11f.js",
+    "static/js/787.6e5dc8e5.chunk.js": "/static/js/787.6e5dc8e5.chunk.js",
+    "static/media/HomePage_image.jpg": "/static/media/HomePage_image.81081c1bee2795988a7b.jpg",
+    "static/media/trash-can-solid.svg": "/static/media/trash-can-solid.80ad713adbe349bae510ea54dbe442b3.svg",
+    "index.html": "/index.html",
+    "main.a6a86f64.css.map": "/static/css/main.a6a86f64.css.map",
+    "main.461fe11f.js.map": "/static/js/main.461fe11f.js.map",
+    "787.6e5dc8e5.chunk.js.map": "/static/js/787.6e5dc8e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6a86f64.css",
-    "static/js/main.5aed2872.js"
+    "static/js/main.461fe11f.js"
   ]
 }
