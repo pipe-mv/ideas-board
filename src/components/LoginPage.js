@@ -8,9 +8,9 @@ export const LoginPage = () => {
     userName: "",
     password: "",
   });
-  const [redirectToHome, setRedirectToHome] = useState(false);
+  // const [redirectToHome, setRedirectToHome] = useState(false);
 
-  console.log(redirectToHome);
+  // console.log(redirectToHome);
   
   useEffect(() => {
     fetch("/api/users", { method: "get" })
@@ -44,7 +44,7 @@ export const LoginPage = () => {
       .then((json) => {
         setUsers(json.data);
         setUser({});
-        setRedirectToHome(true);
+        // setRedirectToHome(true);
       })
       .catch((err) => {
         console.log("Error creating user", err);

@@ -12,7 +12,7 @@ Work with your classmates and colleagues to:
 - Write three ideas for each project.
 - Illustrate with titles what your data model might look like.
 
-You can see this project running [here](https://pipe-mv.github.io/ideas-board/).
+You can see this project running [here](https://ideas-board-felmv.netlify.app).
 
 ---
 
