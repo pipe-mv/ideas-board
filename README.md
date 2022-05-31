@@ -23,20 +23,20 @@ You can see this project running [here](https://ideas-board-felmv.netlify.app).
 * You can run this with `npm install` and then run `npm run dev`  in order to start the server first and finally `npm start` which will take you to the landing site.
 
 
-![board](./src/images/Landing.png)
+![board](./images/Landing.png)
 
 ---
 
 
 * by pressing the `loging` you will go the login page where you can register you user id and password.
 
-![board](./src/images/Login.png)
+![board](./images/Login.png)
 
 ---
 
 Note that the user have already some listed three ideas in the board that you can edit and delete as your convenience. That is to say, from a board that looks like this:
 
-![board](./src/images/Board.png)
+![board](./images/Board.png)
 
 
 ---
